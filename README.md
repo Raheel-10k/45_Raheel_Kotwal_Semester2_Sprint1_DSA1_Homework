@@ -1,4 +1,4 @@
-# > **Note:** This repository consists the answers to the homework questions provided below:
+# This repository consists the answers to the homework questions provided below:
 
 | S.No. | Description                                                                                     |
 | ----- | ----------------------------------------------------------------------------------------------- |
