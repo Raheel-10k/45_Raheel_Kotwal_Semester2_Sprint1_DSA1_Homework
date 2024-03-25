@@ -16,3 +16,6 @@
 | 12    | Implement Graph Traversal techniques: a) Depth First Search b) Breadth First Search             |                     |
 | 13    | Implement Binary Search algorithm to search an element in an array                              |                     |
 | 14    | Implement Bubble sort algorithm to sort elements of an array in ascending and descending order  |                     |
+
+
+> **Note:** A file describing all programs is also attached.
