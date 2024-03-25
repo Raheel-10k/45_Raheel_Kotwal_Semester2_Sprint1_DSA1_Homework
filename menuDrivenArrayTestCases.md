@@ -19,7 +19,7 @@
 
 2. **Expected Output:**
    - Array after each insertion/deletion operation should be displayed.
-   - The final array should be displayed before the program exits. [10]
+   - final array: [10]
 
 ### Test Case 2: Multiple Insertions and Deletions with Invalid Inputs
 
@@ -42,4 +42,4 @@
 2. **Expected Output:**
    - Array after each valid insertion/deletion operation should be displayed.
    - Error message for invalid inputs should be displayed.
-   - The final array should be displayed before the program exits.
+   - final array: []
