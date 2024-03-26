@@ -57,7 +57,7 @@ void display(Stack* stack) {
     else {
         cout<<"Stack elements are: ";
         for(int i=stack->top;i>=0;i--) {
-            cout<<stack->array[i] << " ";
+            cout<<stack->array[i]<<" ";
         }
     }
     cout<<endl;
