@@ -40,7 +40,7 @@ int main() {
     cin>>size;
     int *arr=new int[size];
     for(int i=0;i<size;i++) {
-        cout<<"Enter value at"<<i+1<<": ";
+        cout<<"Enter value at "<<i+1<<": ";
         cin>>arr[i];
     }
 
@@ -57,7 +57,7 @@ int main() {
             display(arr, size);
         }
         else if(choice==3) {
-            cout<<"Exitin..."<<endl;
+            cout<<"Exiting..."<<endl;
         }
         else {
             cout<<"Invalid input. Please try again."<<endl;
