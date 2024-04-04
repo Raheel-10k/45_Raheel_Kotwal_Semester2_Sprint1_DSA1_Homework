@@ -14,8 +14,8 @@
    - **Input:** 15, 25, 35
    - **Expected Output:** Queue: 15 25 35
 
-2. **Operation:** Dequeue
-   - **Expected Output:** Dequeued element.
+2. **Operation:** Dequeue 2 times
+   - **Expected Output:** Dequeued element. Dequeued element.
 
 3. **Operation:** Display
-   - **Expected Output:** Queue: 25 35
+   - **Expected Output:** Queue: 35
